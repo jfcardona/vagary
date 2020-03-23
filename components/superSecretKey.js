@@ -1,0 +1,1 @@
+export const androidClientId = "490380170803-o14n46np81ebpse3fais6eoi7ebgfqo7.apps.googleusercontent.com";
